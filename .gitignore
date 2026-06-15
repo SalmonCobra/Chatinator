@@ -1,0 +1,6 @@
+.idea/
+*.user
+**/bin/
+**/obj/
+Chatinator.sln.DotSettings.user
+**/Certs/
